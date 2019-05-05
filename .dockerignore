@@ -1,0 +1,5 @@
+deb/
+gpg/
+repo/
+.git/
+.gitignore
